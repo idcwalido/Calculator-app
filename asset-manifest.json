@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/idcwalido/Calculator-app/static/css/main.219868ce.css",
+    "main.js": "/idcwalido/Calculator-app/static/js/main.ae60b249.js",
+    "static/js/453.92889dae.chunk.js": "/idcwalido/Calculator-app/static/js/453.92889dae.chunk.js",
+    "index.html": "/idcwalido/Calculator-app/index.html",
+    "main.219868ce.css.map": "/idcwalido/Calculator-app/static/css/main.219868ce.css.map",
+    "main.ae60b249.js.map": "/idcwalido/Calculator-app/static/js/main.ae60b249.js.map",
+    "453.92889dae.chunk.js.map": "/idcwalido/Calculator-app/static/js/453.92889dae.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.219868ce.css",
+    "static/js/main.ae60b249.js"
+  ]
+}
